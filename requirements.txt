@@ -1,0 +1,14 @@
+Flask # flask lib
+Flask-Cors #A Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
+matplotlib #matplotlib
+numpy #numpy
+pandas # pandas
+scikit-learn # to get model lib
+kneed #elbow plot
+xgboost #pip install xgboost-1.0.2-cp36-cp36m-win32.whl
+Flask-MonitoringDashboard # flask app monitor dashboard
+Jinja2 #Flask is based on the Jinja2 template engine
+Werkzeug #Flask is based on the Werkzeug WSGI toolkit
+itsdangerous #Various helpers to pass data to untrusted environments and to get it back safe and sound. Data is cryptographically signed to ensure that a token has not been tampered with.
+certifi #Certifi is a carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
+MarkupSafe #MarkupSafe implements a text object that escapes characters so it is safe to use in HTML and XML. Characters that have special meanings are replaced so that they display as the actual characters. This mitigates injection attacks, meaning untrusted user input can safely be displayed on a page.
